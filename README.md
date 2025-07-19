@@ -61,7 +61,7 @@ Este projeto foi uma oportunidade para praticar os seguintes conceitos:
 
 ---
 
-## ✒️ Autor
+## ✒️ Autora
 
 Feito com ❤️ por **Beka S.**
 
